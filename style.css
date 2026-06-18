@@ -65,7 +65,7 @@ main {
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     align-items: center;
-    flex-wrap: column;
+    flex-wrap: center;
 }
 .card img {
     width: 100%;
